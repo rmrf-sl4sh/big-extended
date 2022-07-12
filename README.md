@@ -6,9 +6,9 @@
  thorough.txt:	https://github.com/henshin/filebuster/blob/master/wordlists/thorough.txt
  
  wc -l big.txt
- 20476 big.txt
+  20476 big.txt
  
  wc -l big-extended.txt
- 30959 big-extended.txt
+  30959 big-extended.txt
  
  a 151.2% increase, yay
